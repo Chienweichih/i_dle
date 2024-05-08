@@ -1,8 +1,23 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: (G)I-DLE 影音整理
+description: Sync (G)I-dle information from iloveykk@PTT (https://bit.ly/3pQRwvx) 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://chienweichih.github.io/g_i_dle
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  資料來源: https://docs.google.com/spreadsheets/d/e/2PACX-1vQahpZGU0SizzuSQLMKPEwbjW-WiieTXLIPYBVopC0VVrkeFt_fEdsr18LGbl6tAoTjzS9NJY1fAnN_/pubhtml
+
+favicon_ico: "/assets/images/favicon.ico"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2024 chienweichih"
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/Chienweichih/g_i_dle" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
