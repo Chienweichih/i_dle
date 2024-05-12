@@ -1,5 +1,5 @@
 title: (G)I-DLE 影音整理
-description: Sync (G)I-dle information from iloveykk@PTT (https://bit.ly/3pQRwvx) 
+description: Sync (G)I-dle information from iloveykk@PTT (https://bit.ly/3pQRwvx)
 theme: just-the-docs
 
 url: https://chienweichih.github.io/g_i_dle
@@ -7,12 +7,17 @@ url: https://chienweichih.github.io/g_i_dle
 aux_links:
   資料來源: https://docs.google.com/spreadsheets/d/e/2PACX-1vQahpZGU0SizzuSQLMKPEwbjW-WiieTXLIPYBVopC0VVrkeFt_fEdsr18LGbl6tAoTjzS9NJY1fAnN_/pubhtml
 
+aux_links_new_tab: true
+
 favicon_ico: "/assets/images/favicon.ico"
 
 back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2024 chienweichih"
+
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
