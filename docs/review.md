@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 回顧
-last_modified_date: 2024-05-12
+last_modified_date: 2024-06-24
 nav_order: 10
 ---
 
@@ -106,3 +106,9 @@ nav_order: 10
 [240502 出道 六週年](https://twitter.com/G_I_DLE/status/1786040495023763756)
 
 ![]({{ site.url }}/assets/images/review/240502.jpg)
+
+---
+
+[240525 延世大學校慶](https://twitter.com/G_I_DLE/status/1794327750062526848)
+
+![]({{ site.url }}/assets/images/review/240525.jpg)
