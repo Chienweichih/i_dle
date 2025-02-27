@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 回顧
-last_modified_date: 2024-06-24
+last_modified_date: 2025-02-27
 nav_order: 10
 ---
 
@@ -112,3 +112,21 @@ nav_order: 10
 [240525 延世大學校慶](https://twitter.com/G_I_DLE/status/1794327750062526848)
 
 ![]({{ site.url }}/assets/images/review/240525.jpg)
+
+---
+
+[241130 MMA](https://twitter.com/G_I_DLE/status/1862874743126520121)
+
+![]({{ site.url }}/assets/images/review/241130.jpg)
+
+---
+
+[250101 MMA](https://enews.imbc.com/M/Detail/439213)
+
+![]({{ site.url }}/assets/images/review/250101.jpg)
+
+---
+
+[241225 SBS歌謠大戰](https://programs.sbs.co.kr/enter/2024sbsgayo/visualboard/84658?cmd=view&page=1&board_no=4268)
+
+![]({{ site.url }}/assets/images/review/241225.jpg)
