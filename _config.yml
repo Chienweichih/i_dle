@@ -1,8 +1,8 @@
-title: (G)I-DLE 影音整理
-description: Sync (G)I-dle information from iloveykk@PTT (https://bit.ly/3pQRwvx)
+title: i-dle 影音整理
+description: Sync i-dle information from iloveykk@PTT (https://bit.ly/3pQRwvx)
 theme: just-the-docs
 
-url: https://chienweichih.github.io/g_i_dle
+url: https://chienweichih.github.io/i_dle
 
 aux_links:
   資料來源: https://docs.google.com/spreadsheets/d/e/2PACX-1vQahpZGU0SizzuSQLMKPEwbjW-WiieTXLIPYBVopC0VVrkeFt_fEdsr18LGbl6tAoTjzS9NJY1fAnN_/pubhtml
@@ -14,14 +14,14 @@ favicon_ico: "/assets/images/favicon.ico"
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2024 chienweichih"
+footer_content: "Copyright &copy; 2025 chienweichih"
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/Chienweichih/g_i_dle" # the github URL for your repo
+gh_edit_repository: "https://github.com/Chienweichih/i_dle" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
